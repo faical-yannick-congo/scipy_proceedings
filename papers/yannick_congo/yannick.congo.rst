@@ -1,17 +1,5 @@
 :author: Faical Yannick Palingwende Congo
 :email: faical.congo@nist.gov
-:institution: National Institute of Standards and Technologies
-
-:author: Dr. Daniel Wheeler
-:email: daniel.wheeler2@gmail.com
-:institution: Nextline Manufacturing
-
-:author: Dr. Jonathan Guyer
-:email: jonathan.guyer@nist.gov
-:institution: National Institute of Standards and Technologies
-
-:author: Dr. David Hill
-:email: david.hill@univ-bpclermont.fr
 :institution: Blaise Pascal University
 
 :video: http://www.youtube.com/watch?v=dhRUe-gz690
